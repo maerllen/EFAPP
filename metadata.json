@@ -1,0 +1,8 @@
+{
+  "name": "EFAPP - Plataforma EAD & Loja Virtual",
+  "description": "Escola de Formação de Agentes Públicos e Privados - Sistema integrado de cursos em Saúde e Educação com autenticação institucional, gestão de perfis TIPO1 a TIPO7, proteção anticópia com marca d'água de CPF, emissão de certificados, avaliações e controle financeiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
